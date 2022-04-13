@@ -10,7 +10,7 @@ Let me show you how you can run this Django Projeect I developed on your local c
                     
 3)Once you are in, simply type the following command on your terminial to run the app:
 
-                    'python3 manage.app runserver'
+                    'python3 manage.py runserver'
                     
 4)Now, if you go to your web browser and visit http://localhost:8000/, you should see the app running.
 
