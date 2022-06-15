@@ -4,6 +4,7 @@ Hi! Thank you for checking out my repository.
 Let me show you how you can run this Django Projeect I developed on your local computer!
 
 1)First, download the folder 'proj1' onto your local computer.
+
 2)Next, Open your terminal and go to this folder with the help of the cd function 
 
                     'cd proj1'.
